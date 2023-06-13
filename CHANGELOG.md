@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/boruei-chen/utils/compare/v1.1.0...v1.2.0) (2023-06-13)
+
+
+### Features
+
+* replaceNullWithEmptyStringDeep function ([2004e98](https://github.com/boruei-chen/utils/commit/2004e9807b7bb16dca9da09236d1276a741d8d64))
+
 # [1.1.0](https://github.com/boruei-chen/utils/compare/v1.0.0...v1.1.0) (2023-06-12)
 
 
