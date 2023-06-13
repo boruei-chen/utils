@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/boruei-chen/utils/compare/v1.2.0...v1.2.1) (2023-06-13)
+
+
+### Bug Fixes
+
+* 移除 Sample function ([338eee4](https://github.com/boruei-chen/utils/commit/338eee403be44e9da2c239c7e1b7d4f985af50d7))
+
 # [1.2.0](https://github.com/boruei-chen/utils/compare/v1.1.0...v1.2.0) (2023-06-13)
 
 
