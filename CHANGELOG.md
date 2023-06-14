@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/boruei-chen/utils/compare/v1.2.1...v1.3.0) (2023-06-14)
+
+
+### Features
+
+* getObjectKeyByValue function ([d442564](https://github.com/boruei-chen/utils/commit/d4425643e57dc10deba6b4645a72496936f5aaf4))
+
 ## [1.2.1](https://github.com/boruei-chen/utils/compare/v1.2.0...v1.2.1) (2023-06-13)
 
 
