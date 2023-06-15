@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/boruei-chen/utils/compare/v1.3.0...v1.4.0) (2023-06-15)
+
+
+### Features
+
+* getEnAlphabetList function ([f05875f](https://github.com/boruei-chen/utils/commit/f05875f13418d63ae36f64e516477382b8dd6903))
+
 # [1.3.0](https://github.com/boruei-chen/utils/compare/v1.2.1...v1.3.0) (2023-06-14)
 
 
