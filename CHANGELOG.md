@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/boruei-chen/utils/compare/v1.5.0...v1.6.0) (2023-08-16)
+
+
+### Features
+
+* convertToADDate function ([edc55e5](https://github.com/boruei-chen/utils/commit/edc55e553fbd1d29dc14670e11081a7326087542))
+
 # [1.5.0](https://github.com/boruei-chen/utils/compare/v1.4.0...v1.5.0) (2023-08-16)
 
 
