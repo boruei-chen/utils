@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/boruei-chen/utils/compare/v1.4.0...v1.5.0) (2023-08-16)
+
+
+### Features
+
+* convertToROCDate function ([322395b](https://github.com/boruei-chen/utils/commit/322395b411fe8360663d3dab424a8cf2c41d8a7f))
+
 # [1.4.0](https://github.com/boruei-chen/utils/compare/v1.3.0...v1.4.0) (2023-06-15)
 
 
