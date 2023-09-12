@@ -1,6 +1,6 @@
 {
   "name": "@boruei.chen/utils",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "Utility functions",
   "homepage": "https://github.com/boruei-chen/utils#readme",
   "main": "dist/cjs/index.js",

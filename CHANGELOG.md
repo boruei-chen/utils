@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/boruei-chen/utils/compare/v1.6.0...v1.7.0) (2023-09-12)
+
+
+### Features
+
+* 更新 README.md ([fcc948b](https://github.com/boruei-chen/utils/commit/fcc948bf01ef8a5bc87b1e4ec22bad3a36113a45))
+
 # [1.6.0](https://github.com/boruei-chen/utils/compare/v1.5.0...v1.6.0) (2023-08-16)
 
 
